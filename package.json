@@ -1,0 +1,12 @@
+{
+  "name": "armstrong-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["number-armstrong", "armstrong", "calcule of armstrong"],
+  "author": "Fabio Junio",
+  "license": "ISC"
+}
